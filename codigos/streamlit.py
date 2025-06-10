@@ -52,7 +52,6 @@ print('Média de valores descontados:', media)
 print('Desvio padrão de valores descontados:', desvio)
 print('Mediana dos valores descontados:', mediana)
 print('Máximo dos valores descontados:' , maximo)
-print('Menor valor dos descontados:', menor_desconto)
 
 # Análises multivariadas
 st.subheader('Análises multivariadas')
