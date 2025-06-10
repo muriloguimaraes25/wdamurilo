@@ -67,11 +67,3 @@ else:
     st.markdown('### Boxplot')
     fig4 = px.box(df, x=lista_de_escolhas[0], y=lista_de_escolhas[1])
     st.plotly_chart(fig4)
-
-    st.markdown('### Gráfico de Pizza')
-    # Verificação para evitar erro em gráfico de pizza
-    if df[lista_de_escolhas[0]].nunique() < 50:
-        fig5 = px.pie(df, names=lista_de_escolhas[0], values=lista_de_escolhas[1])
-        st.plotly_chart(fig5)
-    else:
-        st.warning("A coluna selecionada para o gráfico de pizza tem muitos valores únicos.")
