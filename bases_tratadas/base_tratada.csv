@@ -1,0 +1,40 @@
+marca;produto;desconto;preco;valor_desconto;perc_desconto
+Apple;iPhone 11 64GB;1213.52;1379.0;165.48;0.12
+Apple;iPhone 11 128GB;1310.32;1489.0;178.68;0.12
+Samsung;Samsung Galaxy S22 5G 128GB;1556.72;1769.0;212.28;0.12
+Samsung;Samsung Galaxy S21 FE 128GB;1081.52;1229.0;147.48;0.12
+Samsung;Samsung Galaxy A12 64GB;439.12;499.0;59.88;0.12
+Samsung;Samsung Galaxy S21 5G 128GB;1292.72;1469.0;176.28;0.12
+Apple;iPhone XR 128GB;1063.92;1209.0;145.08;0.12
+Apple;iPhone XR 64GB;1160.72;1319.0;158.28;0.12
+Samsung;Samsung Galaxy S22 Ultra 5G 256GB;2665.52;3029.0;363.48;0.12
+Apple;iPhone 13 128GB;2683.12;3049.0;365.88;0.12
+Apple;iPhone 12 128GB;2172.72;2469.0;296.28;0.12
+Apple;iPhone 12 64GB;1891.12;2149.0;257.88;0.12
+Apple;iPhone 11 256GB;1424.72;1619.0;194.28;0.12
+Samsung;Samsung Galaxy S23+ 5G 512GB;2577.52;2929.0;351.48;0.12
+Samsung;Samsung Galaxy S22 5G 256GB;1750.32;1989.0;238.68;0.12
+Samsung;Samsung Galaxy A10s 32 GB;386.32;439.0;52.68;0.12
+Samsung;Samsung Galaxy S23 5G 128GB;2128.72;2419.0;290.28;0.12
+Apple;iPhone 11 Pro Max 256GB;2401.52;2729.0;327.48;0.12
+Samsung;Samsung Galaxy S23+ 5G 256GB;2313.52;2629.0;315.48;0.12
+Samsung;Samsung Galaxy A10 32 GB;359.92;409.0;49.08;0.12
+Apple;iPhone 13 256GB;2911.92;3200.0;397.08;0.12
+Samsung;Samsung Galaxy A14 5G 128GB;694.32;789.0;94.68;0.12
+Samsung;Samsung Galaxy S23 Ultra 5G 512GB;3200.0;3200.0;465.48;0.12
+Apple;iPhone 8 Plus 64GB;870.32;989.0;118.68;0.12
+Samsung;Samsung Galaxy A52s 5G 128GB;817.52;929.0;111.48;0.12
+Samsung;Samsung Galaxy A54 5G 256GB;1275.12;1449.0;173.88;0.12
+Apple;iPhone 11 Pro 256GB;2225.52;2529.0;303.48;0.12
+Apple;iPhone 12 Mini 128GB;1926.32;2189.0;262.68;0.12
+Samsung;Samsung Galaxy A13 128GB;632.72;719.0;86.28;0.12
+Apple;iPhone 11 Pro Max 64GB;2058.32;2339.0;280.68;0.12
+Apple;iPhone 12 256GB;2454.32;2789.0;334.68;0.12
+Samsung;Samsung Galaxy S22+ 128GB;1794.32;2039.0;244.68;0.12
+Apple;iPhone XS Max 64 GB;1292.72;1469.0;176.28;0.12
+Samsung;Samsung Galaxy A54 5G 128GB;1213.52;1379.0;165.48;0.12
+Apple;iPhone 12 Pro Max 128GB;3008.72;3200.0;410.28;0.12
+Samsung;Samsung Galaxy S21+ 5G 128GB;1178.32;1339.0;160.68;0.12
+Samsung;Samsung Galaxy A31 128GB;641.52;729.0;87.48;0.12
+Samsung;Samsung Galaxy A32 128GB;659.12;749.0;89.88;0.12
+Apple;iPhone 13 Mini 128GB;2489.52;2829.0;339.48;0.12
